@@ -11,7 +11,7 @@ import './chat.css'
 
 
 // const socket = io.connect("http://localhost:3001")
-// const socket = io.connect(`https://socket-server-d3bq.onrender.com/`)
+const socket = io.connect(`https://socketserver-z783.onrender.com`)
 
 
 
